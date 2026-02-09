@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0fdf4"/>
+  <rect x="100" y="120" width="600" height="360" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="3"/>
+  <g transform="translate(400, 250)">
+    <circle cx="0" cy="0" r="80" fill="#ecfdf5" stroke="#10b981" stroke-width="3"/>
+    <path d="M -40 -30 L -30 0 L -40 30 M 40 -30 L 30 0 L 40 30" stroke="#10b981" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <rect x="-25" y="-10" width="50" height="20" rx="10" fill="#d1fae5"/>
+  </g>
+  <text x="400" y="520" font-size="32" font-weight="bold" text-anchor="middle" fill="#10b981">Smile Care</text>
+</svg>

@@ -1,0 +1,7 @@
+{
+  "name": "Belleville Dental - Professional & Patient Oral Health Portal",
+  "description": "A comprehensive dental healthcare SPA providing educational resources for professionals and patients, research insights, and high-quality oral care products.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

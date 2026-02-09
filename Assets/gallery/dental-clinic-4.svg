@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f3e8ff"/>
+  <rect x="100" y="120" width="600" height="360" rx="10" fill="#ffffff" stroke="#a855f7" stroke-width="3"/>
+  <g transform="translate(400, 240)">
+    <circle cx="0" cy="0" r="70" fill="#f3e8ff" stroke="#a855f7" stroke-width="3"/>
+    <g stroke="#a855f7" stroke-width="3" fill="none">
+      <path d="M -40 -10 L -20 10"/>
+      <path d="M 40 -10 L 20 10"/>
+      <path d="M -30 20 L -10 20"/>
+      <path d="M 10 20 L 30 20"/>
+      <circle cx="-25" cy="-25" r="8" fill="#a855f7"/>
+      <circle cx="25" cy="-25" r="8" fill="#a855f7"/>
+    </g>
+  </g>
+  <text x="400" y="520" font-size="32" font-weight="bold" text-anchor="middle" fill="#a855f7">Oral Health</text>
+</svg>

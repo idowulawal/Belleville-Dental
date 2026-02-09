@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#dbeafe"/>
+  <rect x="100" y="120" width="600" height="360" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="3"/>
+  <g transform="translate(400, 260)">
+    <circle cx="0" cy="0" r="70" fill="#dbeafe" stroke="#3b82f6" stroke-width="3"/>
+    <g fill="none" stroke="#3b82f6" stroke-width="3">
+      <path d="M -45 -20 Q -35 0 -30 20"/>
+      <path d="M 45 -20 Q 35 0 30 20"/>
+      <path d="M -10 -45 L 10 -45"/>
+      <path d="M -20 40 L 20 40"/>
+      <circle cx="0" cy="0" r="15" fill="#e0f2fe"/>
+    </g>
+  </g>
+  <text x="400" y="520" font-size="32" font-weight="bold" text-anchor="middle" fill="#3b82f6">Bright Smile</text>
+</svg>
